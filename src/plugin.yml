@@ -1,0 +1,11 @@
+name: ChunkLoader
+version: 1.0-RELEASE
+load: POSTWORLD
+author: _FlowZz_
+main: it.flowzz.chunkloader.Main
+softdepend: [HolographicDisplays, Factions, ASkyBlock]
+
+commands:
+  chunkloader:
+    description: Main command for the plugin.
+    aliases: [chunkl]

@@ -1,0 +1,28 @@
+Settings:
+  #Only Faction Moderator can break chunkloaders
+  onlyModeratorCanBreak: true
+  #Update delay in second
+  update-delay: 1
+  Hologram:
+    enable: true
+    text: "&7Time &8> &b%days%:%hours%:%minutes%:%seconds% &7s"
+
+ChunkLoader-Layout:
+  id: 138
+  subid: 0
+  name: "&8(&bChunkloader&8) > &b%days%:%hours%:%minutes%:%seconds% &7s"
+  lore:
+    - "When you place this item"
+    - "it will keep the chunk loaded."
+
+ChunkLoader-Permanent-Layout:
+  name: "&8(&bChunkloader&8) > &b%time%"
+
+
+MySQL:
+  enabled: false
+  host: "localhost"
+  port: 3306
+  database: "chunkloader"
+  username: "root"
+  password: "password"

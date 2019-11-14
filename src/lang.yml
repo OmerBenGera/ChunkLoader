@@ -1,0 +1,8 @@
+chunkloader-already-placed: "&9Chunkloader &8> &7This chunk already contains a chunkloader."
+chunkloader-broken: "&9Chunkloader &8> &7You have broken a chunkloader."
+chunkloader-placed: "&9Chunkloader &8> &7You have placed a chunkloader."
+chunkloader-syntax: "&9Chunkloader &8> &7use /chunkloader give <name> <number> <time>"
+chunkloader-player-offline: "&9Chunkloader &8> &7This player is not online."
+chunkloader-not-moderator: "&9Chunkloader &8> &7You need to be at least moderator to break that chunkloader"
+chunkloader-not-your-island: "&9Chunkloader &8> &7This chunkloader doesn't belong to your island."
+chunkloader-wrong-faction: "&9Chunkloader &8> &7This chunkloader doesn't belong to your faction."
